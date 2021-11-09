@@ -9,3 +9,7 @@ Aplikasi Lelang menggunakan OOP Java
 <br>
 <h2>Output If barang tidak dapat ditawar</h2>
 
+![Editing Aplikasi (2)](https://user-images.githubusercontent.com/65702027/140888315-c986ac98-aa37-4a7d-9a95-0fe2ea7029a2.png)
+![Editing Aplikasi (3)](https://user-images.githubusercontent.com/65702027/140888335-f54d6157-ec2d-48df-8107-aaf51804120c.png)
+
+
