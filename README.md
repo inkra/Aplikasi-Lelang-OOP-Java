@@ -1,6 +1,17 @@
 # Aplikasi-Lelang-OOP-Java
 Aplikasi Lelang menggunakan OOP Java
 
+<h1>Catatan aplikasi yang dibuat:</h1>
+a. Jika hendak melelang barang maka lakukan pengisian data barang dan status diisi
+true(menandakan barang bisa ditawar).
+b. Jika ingin melakukan penawaran maka data lelang diisi, lelang ditutup ketika status pada class
+Barang diubah menjadi false dan pemenang lelang adalah yang menawar tertinggi
+c. Buatlah class diagram dari aplikasi ini
+d. Buatlah beberapa class menjadi interface dan implementasinya
+e. Buatlah enkapsulasi, tentunya variabel lokal harus di private
+f. Buatlah polimorfisme dalam aplikasi ini
+
+
 <h2>Diagram Aplikasi Lelang</h2>
 
 ![Lelang (1)](https://user-images.githubusercontent.com/65702027/140888590-c26682db-81d1-4437-80d0-6d9e1947ba65.png)
