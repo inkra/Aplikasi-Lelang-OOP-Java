@@ -1,7 +1,7 @@
 # Aplikasi-Lelang-OOP-Java
 Aplikasi Lelang menggunakan OOP Java
 
-<h4>Catatan aplikasi yang dibuat:</h4>
+<h4>CATATAN APLIKASI YANG DIBUAT:</h4>
 <ul>
  <li> Jika hendak melelang barang maka lakukan pengisian data barang dan status diisi true(menandakan barang bisa ditawar).</li>
  <li> Jika ingin melakukan penawaran maka data lelang diisi, lelang ditutup ketika status pada class Barang diubah menjadi false dan pemenang lelang adalah yang menawar tertinggi</li>
