@@ -1,4 +1,4 @@
-# Aplikasi-Lelang-OOP-Java
+# Aplikasi Lelang-OOP Java
 Aplikasi Lelang menggunakan OOP Java
 
 <h4>CATATAN APLIKASI YANG DIBUAT:</h4>
