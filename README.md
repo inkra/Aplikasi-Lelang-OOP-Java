@@ -1,6 +1,12 @@
 # Aplikasi-Lelang-OOP-Java
 Aplikasi Lelang menggunakan OOP Java
 
+<h2>Diagram Aplikasi Lelang</h2>
+
+![Lelang (1)](https://user-images.githubusercontent.com/65702027/140888590-c26682db-81d1-4437-80d0-6d9e1947ba65.png)
+
+<br>
+
 <h2>Output If barang dapat ditawar</h2>
 
 ![Editing Aplikasi](https://user-images.githubusercontent.com/65702027/140887363-7bf57b21-211f-41fe-910e-9999466739f3.png)
